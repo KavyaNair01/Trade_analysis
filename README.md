@@ -24,7 +24,7 @@ This Power BI dashboard provides a comprehensive and interactive visualization o
 
 ### 📐 Dimensional Model (Star Schema)
 > *(Insert ERD or star schema image of your model here)*  
-![Data Model](Dynamic.png)
+![Data Model](Dyamic.png)
 
 ---
 
