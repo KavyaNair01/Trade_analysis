@@ -18,12 +18,10 @@ This Power BI dashboard provides a comprehensive and interactive visualization o
 
 ## 📷 Snapshots
 
-### 🖼️ Dashboard Preview
-> *(Insert screenshot of your dashboard here)*  
+### 🖼️ Dashboard Preview 
 ![Dashboard Snapshot](Dashboard.png)
 
 ### 📐 Dimensional Model (Star Schema)
-> *(Insert ERD or star schema image of your model here)*  
 ![Data Model](Dyamic.png)
 
 ---
